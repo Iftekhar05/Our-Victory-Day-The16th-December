@@ -1,0 +1,79 @@
+ul{
+    list-style: square;
+}
+h1,h2,h3{
+    text-align: center;
+}
+.header-top h1 {
+  display: inline-block;
+  margin-left: 200px;
+}
+.header-top {
+  background: linear-gradient(30deg,red,green,red);
+  color: aqua;
+  font-weight: bold;
+}
+
+.header-top img {
+  display: inline-block;
+  height: 76px;
+  width: 100px;
+}
+.edit {
+ color:red!important;
+ font-weight: bold;
+ font-size: 21px;
+}
+.img-edit{
+    height:500px;
+    width:100%;
+}
+
+.background-area img {
+  height: 200px;
+  width: 100%;
+}
+
+.add {
+  height: 500px;
+}
+
+.sectors img {
+  width: 100%;
+}
+
+.freedom-fighters img {
+  width: 300px;
+  height: 221px;
+}
+
+.footer-section p {
+  display: inline-block;
+  margin-top: 12px;
+}
+.footer {
+  text-align: center;
+  background: gray;
+  padding: 5px;
+}
+
+.surrunders img {
+  width: 100%;
+  height: 230px;
+}
+
+.surrunders p {
+  margin-top: 18px;
+}
+.surrunders {
+  margin: 20px;
+}
+.describe-area {
+  padding: 20px;
+}
+.background-area h3 {
+  padding-bottom: 7px;
+}
+.liberation-war h3 {
+  margin-top: 15px;
+}
